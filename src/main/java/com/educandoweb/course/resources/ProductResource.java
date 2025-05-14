@@ -1,6 +1,6 @@
 package com.educandoweb.course.resources;
 
-import com.educandoweb.course.entities.services.ProductService;
+import com.educandoweb.course.services.ProductService;
 import com.educandoweb.course.entities.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

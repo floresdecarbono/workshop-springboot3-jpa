@@ -1,4 +1,4 @@
-package com.educandoweb.course.entities.services;
+package com.educandoweb.course.services;
 
 import com.educandoweb.course.entities.Category;
 import com.educandoweb.course.repositories.CategoryRepository;
